@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MPNx80xuzARbIEpL2ataYtlFzRfmWqjcvthqBmT/b4o3zWkq+85TcspNSmsl1uaNpfKOEqfwHLI+Jk4PEDcEbA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cacac\\Desktop\\CursoAspNetCore\\MinhaAppMvcCompleta\\src\\DevIO.Business\\DevIO.Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cacac\\.nuget\\packages\\fluentvalidation\\11.5.2\\fluentvalidation.11.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}
